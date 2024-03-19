@@ -2,6 +2,7 @@
 	"info": {
 		"_postman_id": "c5f05f2b-3783-4ce2-9b6d-e86b895d79ef",
 		"name": "Azure AI Search",
+		"description": "Use this Postman Collection to make the setup of the Azure AI Search SharePoint Index process easier.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "3632237",
 		"_collection_link": "https://gold-eclipse-547498.postman.co/workspace/Microsoft-Teams-Stuff~839f50a6-dba2-4471-8c8a-8ad533b4b889/collection/3632237-c5f05f2b-3783-4ce2-9b6d-e86b895d79ef?action=share&source=collection_link&creator=3632237"
