@@ -20,7 +20,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\" : \"{{aisearch-datasource-name}}\",\r\n    \"type\" : \"sharepoint\",\r\n    \"credentials\" : { \"connectionString\" : \"SharePointOnlineEndpoint={{sharePointOnlineEndpoint}}"  }\r\n}",
+					"raw": "{\r\n    \"name\" : \"{{aisearch-datasource-name}}\",\r\n    \"type\" : \"sharepoint\",\r\n    \"credentials\" : { \"connectionString\" : \"SharePointOnlineEndpoint={{sharePointOnlineEndpoint}}\"  }\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
