@@ -8,7 +8,7 @@ This is in particularly useful for setting up SharePoint Indexing with Azure AI 
 To get started open Postman.
 - Click on the file menu and choose import.
 - Provide the following URL to download the Postman collection from GitHub and install into your Postman application.
-    -- https://github.com/SimonDoy/azure-ai-resources/blob/main/azure-ai-search-postman/Azure_AI_Search_Postman_Collection.json
+    -- https://github.com/SimonDoy/azure-ai-resources/blob/main/azure-ai-search-postman/Azure%20AI%20Search.postman_collection.json
 
 ## Steps to setting up the Azure AI Search Index
 
